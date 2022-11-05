@@ -38,6 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
 
+[🔗 Acesse aqui](https://luckzbr.github.io/Calend-rioDeJogos-NLWCopa-Luck/)
 
 <br>
 
